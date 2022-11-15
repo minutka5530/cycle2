@@ -77,7 +77,7 @@ public class Main {
         }
         int u = 1;
 
-
+//
         for(int w = 1; w <= 10;  w ++){
             System.out.println( "2 + "+ w +" = "+ w * 2 );
         }
